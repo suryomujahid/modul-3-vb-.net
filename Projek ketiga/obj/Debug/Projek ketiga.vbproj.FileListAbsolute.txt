@@ -1,0 +1,21 @@
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\bin\Debug\Projek ketiga.exe.config
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\bin\Debug\Projek ketiga.exe
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\bin\Debug\Projek ketiga.pdb
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\bin\Debug\Projek ketiga.xml
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek ketiga.vbprojAssemblyReference.cache
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form1.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form2.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form3.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form4.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form5.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form6.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form7.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Resources.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek ketiga.vbproj.GenerateResource.cache
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek ketiga.vbproj.CoreCompileInputs.cache
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek ketiga.exe
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek ketiga.xml
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek ketiga.pdb
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form8.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form10.resources
+C:\Users\BIOTIS44\source\repos\Projek ketiga\Projek ketiga\obj\Debug\Projek_ketiga.Form9.resources
